@@ -5,7 +5,9 @@
 <p>
 This project is my choice for capastone project to gradute from Data scince NanoDegree in Udacity I choosed this project because as U-Grad student I felt it would help me indicat more industries and also learn more about jobs.
 </p>   
+
 ### Description:
+
 <p>
 You can think of the job industry as the category or general field in which you work. On a job application, "industry" refers to a broad category under which a number of job titles can fall. For example, sales is an industry; job titles under this category can include sales associate, sales manager,manufacturing sales rep, pharmaceutical sales and so on.
 </p>

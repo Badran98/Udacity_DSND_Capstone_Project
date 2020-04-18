@@ -12,6 +12,8 @@ This project is my choice for capastone project to gradute from Data scince Nano
 You can think of the job industry as the category or general field in which you work. On a job application, "industry" refers to a broad category under which a number of job titles can fall. For example, sales is an industry; job titles under this category can include sales associate, sales manager,manufacturing sales rep, pharmaceutical sales and so on.
 </p>
 
+You will need to run html Home_page.html and Results.html locally to test Web Application
+
 ### Details:
 
 Given a dataset that has two variables (Job title & Industry) in a csv format of more than 8,500 samples.This dataset is imbalanced (Imbalance means that the number of data points available for different classes is different) as follows:

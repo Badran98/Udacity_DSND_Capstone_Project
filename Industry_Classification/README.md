@@ -1,4 +1,4 @@
-# Industry Classification WebApp
+# Industry Classification Web Application
 
 
 ### Project Motivaion :

@@ -39,3 +39,9 @@ Use Ensemble Modeling to improve accuracy by applying stacking, that often consi
 What are the limitations of Logistic regression or Where does your approach fail?
 
 Logistic regression attempts to predict outcomes based on a set of independent variables, but if researchers include the wrong independent variables, the model will have little to no predictive value. This means that logistic regression is not a useful tool unless researchers have already identified all the relevant independent variables.
+
+### Necessary Library
+- sklearn,pandas,seaborn,numpy,matplotlib
+
+### Acknowledgment
+Data collected from wuzzuf.net while participating in Code Geist which is Egypt's first hackathon dedicated for undergraduates
